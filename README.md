@@ -12,9 +12,9 @@ LANGKAH-LANGKAH
 
 
 #DIAGRAM CLASS
-![gambar](DIAGRAM)
+![gambar](Diagramclass.png)
 
 
 #FLOWCHART
-![gambar](FLOWCHART(2).png)
+![gambar](Flowchart.png)
 
