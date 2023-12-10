@@ -10,9 +10,13 @@ LANGKAH-LANGKAH
 ![gambar](prak8ss2.png)
 ![gambar](prak8ss3.png)
 
+
+
 #DIAGRAM CLASS
-![gambar](Diagramclass.png)
+![gambar](DiagramClass.png)
+
+
 
 #FLOWCHART
-![gambar](Flowchart.png)
+![gambar](Flowchart2.png)
 
